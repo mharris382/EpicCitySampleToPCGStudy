@@ -1,0 +1,2 @@
+# EpicCitySampleToPCGStudy
+This is a personal study where I isolated specific procedural features demonstrated in the Epic City Sample project (which was originally created using Houdini) and attempted to replicate those features inside unreal engine 5.7 using only PCG.   The 2 primary features  I replicated with PCG were (straight) sidewalk generation and a subset of the sample's building generation 
