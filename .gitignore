@@ -198,3 +198,5 @@ scan_folder_sizes.py
 UnrelatedTopLevelContent.py
 
 PCGCitySampleStudy/Content/RandomTransformationFromSettings.uasset
+
+PCGCitySampleStudy/Content/CitySampleToPCG.umap
