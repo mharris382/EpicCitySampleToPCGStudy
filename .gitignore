@@ -60,7 +60,7 @@ PCGCitySampleStudy/Build/*/**
 
 # Don't ignore icon files in Build
 !Build/**/*.ico
-
+B:\UnrealEngine5_Projects\_repos6\EDU\EpicCitySampleToPCGStudy\PCGCitySampleStudy\Content\BuildingTexture\Block\T_Block_PackedB.uasset
 # Built data for maps
 *_BuiltData.uasset
 
@@ -182,3 +182,19 @@ PCGCitySampleStudy/Content/Input/
 PCGCitySampleStudy/Content/Data/
 
 PCGCitySampleStudy/Content/Blueprints/
+
+PCGCitySampleStudy/export_oversized.py
+
+PCGCitySampleStudy/resize_4k_textures_to_1k.py
+
+reimport_images_from_export_folder.py
+
+resize_4k_textures_to_1k_with_export_fallback.py
+
+resize_all_images.py
+
+scan_folder_sizes.py
+
+UnrelatedTopLevelContent.py
+
+PCGCitySampleStudy/Content/RandomTransformationFromSettings.uasset
